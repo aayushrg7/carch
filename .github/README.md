@@ -8,7 +8,6 @@
 [![Dependency Status][deps-badge]][deps]
 
 [Installation](https://carch.chalisehari.com.np/getting-started/installation) •
-[Documentation](https://carch.chalisehari.com.np) •
 [Contributing](#contributing) •
 [Changelog](https://github.com/harilvfs/carch/blob/main/CHANGELOG.md)
 
