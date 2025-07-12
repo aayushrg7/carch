@@ -10,8 +10,7 @@
 [Installation](https://carch.chalisehari.com.np/getting-started/installation) •
 [Documentation](https://carch.chalisehari.com.np) •
 [Contributing](#contributing) •
-[Changelog](https://github.com/harilvfs/carch/blob/main/CHANGELOG.md) •
-[Roadmap](https://carch.chalisehari.com.np/project/roadmap)
+[Changelog](https://github.com/harilvfs/carch/blob/main/CHANGELOG.md)
 
 </div>
 
