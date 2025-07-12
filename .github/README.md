@@ -7,8 +7,8 @@
 [![License][license]][license-link]
 [![Dependency Status][deps-badge]][deps]
 
-[Overview](https://carch.chalisehari.com.np/reference/overview-scripts) •
 [Installation](https://carch.chalisehari.com.np/getting-started/installation) •
+[Overview](https://carch.chalisehari.com.np/reference/overview-scripts) •
 [Contributing](https://carch.chalisehari.com.np/project/contributing) •
 [Changelog](https://github.com/harilvfs/carch/blob/main/CHANGELOG.md)
 
