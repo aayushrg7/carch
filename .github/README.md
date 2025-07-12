@@ -9,7 +9,7 @@
 
 [Overview](https://carch.chalisehari.com.np/reference/overview-scripts) •
 [Installation](https://carch.chalisehari.com.np/getting-started/installation) •
-[Contributing](#contributing) •
+[Contributing](https://carch.chalisehari.com.np/project/contributing) •
 [Changelog](https://github.com/harilvfs/carch/blob/main/CHANGELOG.md)
 
 </div>
